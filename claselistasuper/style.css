@@ -1,0 +1,78 @@
+#manzanaimg{
+    width: 120px;
+    height: 90px;
+}
+
+#peraimg{
+    width: 120px;
+    height: 90px;
+}
+
+#platanoimg{
+    width: 120px;
+    height: 90px;
+}
+
+#mangoimg{
+    width: 120px;
+    height: 90px;
+}
+
+#papasimg{
+    width: 120px;
+    height: 90px;
+}
+
+#zanahoriaimg{
+    width: 120px;
+    height: 90px;
+}
+
+#brocoliimg{
+    width: 120px;
+    height: 90px;
+}
+
+#ejotesimg{
+    width: 120px;
+    height: 90px;
+}
+
+#manzana{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#pera{
+    color: green;
+}
+
+#platano{
+    color: yellow;
+}
+
+#mango{
+    color: yellow
+}
+
+#papas{
+    color: yellow;
+}
+
+#zanahoria{
+    color: orangered;
+}
+
+#brocoli{
+    color: greenyellow;
+}
+
+#ejotes{
+    color: greenyellow;
+}
+
+h1{
+    font-style: italic;
+    font-size: 100px;
+    color: grey;
+}

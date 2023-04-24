@@ -1,0 +1,86 @@
+ * {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+ }
+
+ html {
+     font-size: 62.5%;
+ }
+
+ .main-nav li {
+     display: inline-block;
+     margin-top: 20px;
+     border-radius: 4px;
+     background-color: rgb(8, 11, 180);
+ }
+
+ header .main-nav {
+    font-size: 2.5rem;
+    position: absolute;
+    right: 80px;
+ }
+
+ .cabecera {
+     background-color: grey;
+     width: 100vw;
+     height: 11vh;
+ }
+
+ figure img{
+     width: 120px;
+     height: 60px;
+     margin-left: 25px;
+     margin-top: 4px;
+     float: left;
+ }
+
+main #lateral {
+     background-color: red;
+     width: 20vw;
+     height: 75vh;
+     position: absolute;
+ }
+
+ main #medio {
+     background-color: salmon;        
+     width: 80vw;
+     height: 75vh;
+     position: absolute;
+     right: 0; 
+}
+
+ .pie {
+     background-color: brown;
+     width: 100vw;
+     height: 14vh;
+     position: absolute;
+     bottom: 0; 
+ }
+
+ .firma {
+     position: absolute;
+     left: 0;
+ }
+
+ .redsocial {
+     position: absolute;
+     right: 0;
+ }
+
+.redsocial img{
+     width: 5vw;
+     height: 10vh;  
+ }
+
+.main-content .recuadros {
+    border: black solid;
+    border-radius: 6px;
+    width: 15vw;
+    height: 15vh;
+    margin: 18px auto;
+}
+
+
+
+

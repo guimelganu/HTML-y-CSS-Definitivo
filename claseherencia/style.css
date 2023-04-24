@@ -1,0 +1,9 @@
+html {
+    font-size: 75%;
+    font-family: Verdana;
+    color: blue;
+}
+
+h1 {
+    font-size: inherit;
+}

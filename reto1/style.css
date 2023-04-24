@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.fondo {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://st4.depositphotos.com/36759222/41027/v/600/depositphotos_410275514-stock-illustration-hearts-background-love-style-confetti.jpg");  
+    margin: 0;
+}
+
+#principal {
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/538/792/916/classy-fantasy-art-the-starry-night-vincent-van-gogh-wallpaper-preview.jpg");
+    width: 40vw;
+    height: 70vh;
+    border-radius: 20px;
+    position: absolute;
+    top: 20vh;
+    left: 30vw;
+    padding: 20px;
+    opacity: 0.7;
+}
+
+#titulo {
+    font-size: 4rem;
+    font-weight: bold;
+    position: absolute;
+    top: 15vh;
+    left: 34vw;
+    border-radius: 1rem;
+    background-color: rgba(2, 42, 54, 0.6);
+    justify-content: center;
+}
+
+
+#razones {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, bold;
+    font-weight: bold;
+    position: absolute;
+    max-width: 500px;
+    top: 22vh;
+    left: 72vh;
+    font-size: 2.1rem; 
+}
+
+ol {
+    line-height: 1.8;
+}
+
+
+

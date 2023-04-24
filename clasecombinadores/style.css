@@ -1,0 +1,16 @@
+/* h2 + p {
+    color: blue; ***Esto es el estilo de Hermano Cercano.
+} */
+
+/* h2 ~ p {
+    color: red;
+} */
+
+/* div > p {
+    color: red;
+} */
+
+div p {
+    color: red;
+}
+
